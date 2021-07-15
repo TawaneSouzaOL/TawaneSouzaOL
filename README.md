@@ -11,6 +11,7 @@ Olá! Bem-vindo ao meu perfil! Me chamo Tawane, tenho 18 anos e estou no começo
 
 Estes assuntos ainda são novos para mim, mas sinto que posso crescer muito como profissional porque eles fazem os meus olhos brilharem. 
 
+
 Em relação a hobbie eu amo dançar e aproveitar o tempo que tenho para me autoconhecer, entender as minhas emoções e descobrir o que realmente eu gosto de fazer. Amo também passar um tempo com os meus amigos, tudo fica mais divertido quando estou com eles. Não posso esquecer de citar que adoro assistir desenhos.
 </br>
 <hr>
