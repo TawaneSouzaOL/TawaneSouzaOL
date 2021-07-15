@@ -11,17 +11,10 @@ Olá! Bem-vindo ao meu perfil! Me chamo Tawane, tenho 18 anos e estou no começo
 
 Estes assuntos ainda são novos para mim, mas sinto que posso crescer muito como profissional porque eles fazem os meus olhos brilharem. 
 
-
-
 Em relação a hobbie eu amo dançar e aproveitar o tempo que tenho para me autoconhecer, entender as minhas emoções e descobrir o que realmente eu gosto de fazer. Amo também passar um tempo com os meus amigos, tudo fica mais divertido quando estou com eles. Não posso esquecer de citar que adoro assistir desenhos.
 </br>
 <hr>
 
 <b>Experiências</b>
-
-<!--<img src="https://cdn.discordapp.com/attachments/818953098520821832/865053812725121064/unknown.png" width="60px"/>
-<img src="https://cdn.discordapp.com/attachments/818953098520821832/865053772140249119/unknown.png" width="60px"/>
-<img src="https://cdn.discordapp.com/attachments/818953098520821832/865053866805297162/unknown.png" width="60px"/>
-</br>-->
 
 <img src="https://cdn.discordapp.com/attachments/818953098520821832/865068088872402954/unknown.png" width="250px">
