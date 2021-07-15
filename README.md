@@ -2,8 +2,8 @@
 
 <hr>
 <p align='center'>
-<a href="https://www.linkedin.com/in/tawane-souza-de-oliveira/"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059821660405770/unknown.png" width="40px"/></a>&nbsp;&nbsp;
-<a href="https://www.behance.net/tawanesouza"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059855126626314/unknown.png" width="40px"/></a>
+<a href="https://www.linkedin.com/in/tawane-souza-de-oliveira/"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059821660405770/unknown.png" width="30px"/></a>&nbsp;&nbsp;
+<a href="https://www.behance.net/tawanesouza"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059855126626314/unknown.png" width="30px"/></a>
 </p>
 <img src="https://cdn.discordapp.com/attachments/818953098520821832/865054366776033280/unknown.png" width="300px" align="right"/>
 
