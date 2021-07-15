@@ -19,4 +19,4 @@ Em relação a hobbie eu amo dançar e aproveitar o tempo que tenho para me auto
 
 <strong>Experiências</strong>
 
-<img src="https://cdn.discordapp.com/attachments/818953098520821832/865068088872402954/unknown.png" width="250px">
+<img src="https://cdn.discordapp.com/attachments/818953098520821832/865068088872402954/unknown.png" width="210px">
