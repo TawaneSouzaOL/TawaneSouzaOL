@@ -17,8 +17,11 @@ Em relação a hobbie eu amo dançar e aproveitar o tempo que tenho para me auto
 </br>
 <hr>
 
-Experiências
+<b>Experiências</b>
 
-<img src="https://cdn.discordapp.com/attachments/818953098520821832/865053812725121064/unknown.png" width="60px"/></a>
-<img src="https://cdn.discordapp.com/attachments/818953098520821832/865053772140249119/unknown.png" width="60px"/><a/>
-<img src="https://cdn.discordapp.com/attachments/818953098520821832/865053866805297162/unknown.png" width="60px"/><a/>
+<!--<img src="https://cdn.discordapp.com/attachments/818953098520821832/865053812725121064/unknown.png" width="60px"/>
+<img src="https://cdn.discordapp.com/attachments/818953098520821832/865053772140249119/unknown.png" width="60px"/>
+<img src="https://cdn.discordapp.com/attachments/818953098520821832/865053866805297162/unknown.png" width="60px"/>
+</br>-->
+
+<img src="https://cdn.discordapp.com/attachments/818953098520821832/865068088872402954/unknown.png" width="250px">
