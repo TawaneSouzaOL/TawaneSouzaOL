@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/tawane-souza-de-oliveira/"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059821660405770/unknown.png" width="30px"/></a>&nbsp;&nbsp;
 <a href="https://www.behance.net/tawanesouza"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059855126626314/unknown.png" width="30px"/></a>
 </p>
-<img src="https://cdn.discordapp.com/attachments/818953098520821832/865054366776033280/unknown.png" width="300px" align="right"/>
+<a hred="https://br.pinterest.com/pin/846676798691516345/"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865054366776033280/unknown.png" width="300px" align="right"/></a>
 
 Olá! Bem-vindo ao meu perfil!
 
@@ -14,7 +14,7 @@ Me chamo Tawane, tenho 18 anos e estou no começo de minha carreira como Desenvo
 
 Em relação a hobbie eu amo dançar e aproveitar o tempo que tenho para me autoconhecer, entender as minhas emoções e descobrir o que realmente eu gosto de fazer. Amo também passar um tempo com os meus amigos, tudo fica mais divertido quando estou com eles. Não posso esquecer de citar que adoro assistir desenhos.
 
-
+<br>
 <hr>
 
 <strong>Experiências</strong>
