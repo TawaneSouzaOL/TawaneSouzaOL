@@ -1,11 +1,12 @@
-<img src="https://cdn.discordapp.com/attachments/818953098520821832/865058696132689950/735918_3.png"/>
+<a href="https://wall.alphacoders.com/big.php?i=735918&lang=Portuguese"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865058696132689950/735918_3.png"/></a>
 
 <hr>
 <p align='center'>
 <a href="https://www.linkedin.com/in/tawane-souza-de-oliveira/"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059821660405770/unknown.png" width="30px"/></a>&nbsp;&nbsp;
 <a href="https://www.behance.net/tawanesouza"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059855126626314/unknown.png" width="30px"/></a>
 </p>
-<a href="https://br.pinterest.com/pin/846676798691516345/" target="_selfie"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865054366776033280/unknown.png" width="300px" align="right"/></a>
+<a href="https://br.pinterest.com/pin/846676798691516345/"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865054366776033280/unknown.png" width="300px" align="right"/></a>
+<!--créditos da imagem: https://www.artstation.com/adriabie -->
 
 Olá! Bem-vindo ao meu perfil!
 
