@@ -1,4 +1,5 @@
-<a href="https://wall.alphacoders.com/big.php?i=735918&lang=Portuguese"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865058696132689950/735918_3.png"/></a>
+<img src="https://cdn.discordapp.com/attachments/818953098520821832/865058696132689950/735918_3.png"/>
+<!--créditos da imagem: https://wall.alphacoders.com/big.php?i=735918&lang=Portuguese -->
 
 <hr>
 <p align='center'>
@@ -21,3 +22,7 @@ Em relação a hobbie eu amo dançar e aproveitar o tempo que tenho para me auto
 <strong>Experiências</strong>
 
 <img src="https://cdn.discordapp.com/attachments/818953098520821832/865068088872402954/unknown.png" width="190px">
+<!--créditos da imagem: html: https://www.iconfinder.com/icons/939737/html5_icon_%E2%80%A2_html_icon
+css: https://www.pngkey.com/maxpic/u2r5y3w7q8t4r5w7/
+figma: https://icon-icons.com/pt/icone/figma-logo/147289
+-->
