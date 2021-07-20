@@ -3,10 +3,10 @@
 
 <hr>
 <p align='center'>
-<a href="https://www.linkedin.com/in/tawane-souza-de-oliveira/"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059821660405770/unknown.png" width="30px"/></a>&nbsp;&nbsp;
-<a href="https://www.behance.net/tawanesouza"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059855126626314/unknown.png" width="30px"/></a>
+<a href="https://www.linkedin.com/in/tawane-souza-de-oliveira/" target="_blank"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059821660405770/unknown.png" width="30px"/></a>&nbsp;&nbsp;
+<a href="https://www.behance.net/tawanesouza" target="_blank"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059855126626314/unknown.png" width="30px"/></a>
 </p>
-<a href="https://br.pinterest.com/pin/846676798691516345/"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865054366776033280/unknown.png" width="300px" align="right"/></a>
+<img src="https://cdn.discordapp.com/attachments/818953098520821832/865054366776033280/unknown.png" width="300px" align="right"/>
 <!--créditos da imagem: https://www.artstation.com/adriabie -->
 
 Olá! Bem-vindo ao meu perfil!
