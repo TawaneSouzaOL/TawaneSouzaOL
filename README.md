@@ -3,8 +3,8 @@
 
 <hr>
 <p align='center'>
-<a href="https://www.linkedin.com/in/tawane-souza-de-oliveira/" target="_blank"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059821660405770/unknown.png" width="30px"/></a>&nbsp;&nbsp;
-<a href="https://www.behance.net/tawanesouza" target="_blank"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059855126626314/unknown.png" width="30px"/></a>
+<a href="https://www.linkedin.com/in/tawane-souza-de-oliveira/" target="_blank"><img src="https://github.com/TawaneSouzaOL/TawaneSouzaOL/blob/main/Readme/Rectangle%2018.png?raw=true" width="30px"/></a>&nbsp;&nbsp;
+<a href="https://www.behance.net/tawanesouza" target="_blank"><img src="https://github.com/TawaneSouzaOL/TawaneSouzaOL/blob/main/Readme/Rectangle%2017.png?raw=true" width="30px"/></a>
 </p>
 <img src="https://github.com/TawaneSouzaOL/TawaneSouzaOL/blob/main/Readme/your_name.png?raw=true" width="300px" align="right"/>
 <!--créditos da imagem: https://www.artstation.com/adriabie -->
