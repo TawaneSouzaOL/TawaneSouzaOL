@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/818953098520821832/865058696132689950/735918_3.png"/>
+<img src="https://github.com/TawaneSouzaOL/TawaneSouzaOL/blob/main/Readme/735918.png?raw=true"/>
 <!--créditos da imagem: https://wall.alphacoders.com/big.php?i=735918&lang=Portuguese -->
 
 <hr>
@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/tawane-souza-de-oliveira/" target="_blank"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059821660405770/unknown.png" width="30px"/></a>&nbsp;&nbsp;
 <a href="https://www.behance.net/tawanesouza" target="_blank"><img src="https://cdn.discordapp.com/attachments/818953098520821832/865059855126626314/unknown.png" width="30px"/></a>
 </p>
-<img src="https://cdn.discordapp.com/attachments/818953098520821832/865054366776033280/unknown.png" width="300px" align="right"/>
+<img src="https://github.com/TawaneSouzaOL/TawaneSouzaOL/blob/main/Readme/your_name.png?raw=true" width="300px" align="right"/>
 <!--créditos da imagem: https://www.artstation.com/adriabie -->
 
 Olá! Bem-vindo ao meu perfil!
